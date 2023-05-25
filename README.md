@@ -1,5 +1,4 @@
-# docker-deploy-website
-
+# how to deploy your website using modified ubuntu image
 ### 1- Clone the repository by running the following command in your terminal:  
     git clone https://github.com/AbdelrhmanAli123/docker-deploy-website.git
 ### 2- Navigate to the directory using the cd command :
